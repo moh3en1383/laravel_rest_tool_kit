@@ -1,0 +1,32 @@
+{
+    "name": "mohsen1383/laravel-rest-tool-kit",
+    "description": "A toolkit for Laravel REST API development, including helpers, repositories, services, and more.",
+    "keywords": ["laravel", "rest", "api", "toolkit", "helpers", "services", "repositories"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MohsenMofarah",
+            "email": "mohsenmofarah03@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "LaravelRestToolKit\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/moh3en1383/laravel_rest_tool_kit"
+        }
+    ],
+    "require": {
+        "php": "^7.4|^8.0",
+        "illuminate/support": "^8.0|^9.0",
+        "illuminate/database": "^8.0|^9.0",
+        "illuminate/http": "^8.0|^9.0"
+    }
+}
