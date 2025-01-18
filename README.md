@@ -24,6 +24,6 @@ If you need to customize the package’s configuration, you can publish the conf
 
 ```bash
 php artisan vendor:publish --provider="LaravelRestToolKit\ServiceProvider"
-```
+``` 
 
 
