@@ -23,7 +23,6 @@ composer require mohsen1383/laravel-rest-tool-kit
 If you need to customize the package’s configuration, you can publish the configuration files to your Laravel project using the following command:
 
 ```bash
-php artisan vendor:publish --provider="LaravelRestToolKit\ServiceProvider"
-```  
-
+php artisan vendor:publish --provider="LaravelRestToolKit\Providers\AppServiceProvider" --tag=laravel-rest-tool-kit```  
+```
 
