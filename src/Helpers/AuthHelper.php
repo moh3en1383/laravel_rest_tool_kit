@@ -1,6 +1,6 @@
 <?php
 
-namespace Vendor\LaravelRestToolkit\Helpers;
+namespace App\LaravelRestToolKit\Helpers;
 
 use Laravel\Sanctum\PersonalAccessToken;
 

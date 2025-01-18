@@ -1,9 +1,9 @@
 <?php
 
-namespace Vendor\LaravelRestToolkit\Helpers;
+namespace App\LaravelRestToolKit\Helpers;
 
 use Throwable;
-use Vendor\LaravelRestToolkit\Helpers\JsonResponseBuilder;
+use App\LaravelRestToolkit\Helpers\JsonResponseBuilder;
 
 class TryCatchHelper
 {

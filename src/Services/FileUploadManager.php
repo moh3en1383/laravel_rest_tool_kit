@@ -1,6 +1,6 @@
 <?php
 
-namespace Vendor\LaravelRestToolkit\Services;
+namespace App\LaravelRestToolkit\Services;
 
 use Illuminate\Support\Facades\Storage;
 

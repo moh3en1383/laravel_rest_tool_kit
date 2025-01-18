@@ -1,6 +1,6 @@
 <?php
 
-namespace Vendor\LaravelRestToolkit\Repositories;
+namespace App\LaravelRestToolkit\Repositories;
 
 abstract class Repository
 {

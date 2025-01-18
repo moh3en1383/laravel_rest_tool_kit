@@ -1,6 +1,6 @@
 <?php
 
-namespace Vendor\LaravelRestToolkit\API;
+namespace App\LaravelRestToolkit\API;
 
 use Illuminate\Contracts\Validation\Validator;
 use Illuminate\Foundation\Http\FormRequest;
